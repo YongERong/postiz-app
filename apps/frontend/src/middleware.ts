@@ -63,8 +63,14 @@ export async function middleware(request: NextRequest) {
   }
 
   const org = nextUrl.searchParams.get('org');
+  const publicLegalPaths = ['/terms-of-service', '/privacy-policy'];
+
   const url = new URL(nextUrl).search;
-  if (nextUrl.href.indexOf('/auth') === -1 && !authCookie) {
+  if (
+    nextUrl.href.indexOf('/auth') === -1 &&
+    !authCookie &&
+    !publicLegalPaths.includes(nextUrl.pathname)
+  ) {
     const providers = ['google', 'settings'];
     const findIndex = providers.find((p) => nextUrl.href.indexOf(p) > -1);
     const additional = !findIndex
