@@ -119,6 +119,26 @@ export function Login() {
               {t('forgot_password', 'Forgot password')}
             </Link>
           </p>
+          <p className="mt-4 text-[12px] text-textColor">
+            {t(
+              'by_logging_in_you_agree_to_our',
+              'By logging in you agree to our'
+            )}{' '}
+            <Link
+              href="/terms-of-service"
+              className="underline hover:font-bold"
+            >
+              {t('terms_of_service', 'Terms of Service')}
+            </Link>{' '}
+            {t('and', 'and')}{' '}
+            <Link
+              href="/privacy-policy"
+              className="underline hover:font-bold"
+            >
+              {t('privacy_policy', 'Privacy Policy')}
+            </Link>
+            .
+          </p>
         </div>
       </form>
     </FormProvider>
