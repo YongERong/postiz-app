@@ -6,7 +6,7 @@ export const PrivacyPolicy: React.FC = () => {
       <header>
         <h1 className="text-3xl font-semibold md:text-4xl">Privacy Policy</h1>
         <p className="mt-3 text-sm text-textItemBlur">
-          At Postiz (&ldquo;Company,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo;
+          At MyPostiz (&ldquo;Company,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo;
           or &ldquo;our&rdquo;), we are committed to protecting the privacy and
           security of our users&rsquo; personal information. This Privacy Policy
           outlines how we collect, use, and safeguard the personal information
@@ -21,9 +21,9 @@ export const PrivacyPolicy: React.FC = () => {
           1. Our Services
         </h2>
 
-        <h3 className="mt-3 text-lg font-semibold">Postiz Services</h3>
+        <h3 className="mt-3 text-lg font-semibold">MyPostiz Services</h3>
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
-          Postiz&rsquo;s suite of social media management and social care tools
+          MyPostiz&rsquo;s suite of social media management and social care tools
           is accessible via our websites and mobile applications. These tools
           allow you to combine all your social media accounts for easy access
           and management through a single online platform. Through this
@@ -41,7 +41,7 @@ export const PrivacyPolicy: React.FC = () => {
           Networks&rdquo;) are governed by their respective privacy policies and
           terms. When using Social Networks, you must comply with their privacy
           policies and terms. We recommend carefully reviewing their privacy
-          policies and terms, as Postiz is not responsible for Social Networks.
+          policies and terms, as MyPostiz is not responsible for Social Networks.
         </p>
 
         <h3 className="mt-3 text-lg font-semibold">Your Privacy Obligations</h3>
@@ -190,7 +190,7 @@ export const PrivacyPolicy: React.FC = () => {
           </li>
           <li>
             Communicating with you about products, services, offers, promotions,
-            and events offered by Postiz and others, and providing news and
+            and events offered by MyPostiz and others, and providing news and
             information we believe may be of interest to you, in accordance with
             your communication preferences.
           </li>
@@ -201,7 +201,7 @@ export const PrivacyPolicy: React.FC = () => {
           <li>
             Detecting, investigating, and preventing fraudulent transactions and
             other illegal activities, and protecting the rights and property of
-            Postiz and others.
+            MyPostiz and others.
           </li>
           <li>
             Personalizing and improving the Services, including providing
@@ -239,7 +239,7 @@ export const PrivacyPolicy: React.FC = () => {
             <span className="font-semibold">Compliance and protection:</span> in
             response to a request for information if we believe disclosure is
             necessary or appropriate under applicable law, regulation, or legal
-            process, or to protect the rights, property, or safety of Postiz,
+            process, or to protect the rights, property, or safety of MyPostiz,
             our users, or others.
           </li>
           <li>
@@ -312,7 +312,7 @@ export const PrivacyPolicy: React.FC = () => {
           8. International Data Transfers
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
-          Postiz may process and store information in countries other than the
+          MyPostiz may process and store information in countries other than the
           country in which you are located. These countries may have data
           protection laws that are different from those of your country. Where
           required by law, we will take steps to ensure that appropriate

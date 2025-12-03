@@ -6,7 +6,7 @@ export const TermsOfService: React.FC = () => {
       <header>
         <h1 className="text-3xl font-semibold md:text-4xl">Terms of service</h1>
         <p className="mt-3 text-sm text-textItemBlur">
-          Welcome to the Postiz website (the &ldquo;Site&rdquo;). By accessing or
+          Welcome to the MyPostiz website (the &ldquo;Site&rdquo;). By accessing or
           using the Site, you agree to comply with and be bound by the following
           terms and conditions (&ldquo;Terms of Service&rdquo;).
         </p>
@@ -56,7 +56,7 @@ export const TermsOfService: React.FC = () => {
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
           All content on the Site, including but not limited to text, graphics,
-          logos, images, videos, and course content, is the property of Postiz
+          logos, images, videos, and course content, is the property of MyPostiz
           or its licensors and is protected by intellectual property laws. You
           may not reproduce, modify, distribute, or otherwise use any content on
           the Site without our prior written consent.
@@ -83,7 +83,7 @@ export const TermsOfService: React.FC = () => {
           6. Limitation of Liability
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
-          In no event shall Postiz be liable for any indirect, incidental,
+          In no event shall MyPostiz be liable for any indirect, incidental,
           special, or consequential damages arising out of or in connection with
           your use of the Site, the course content, or your subscription to the
           newsletter, whether based on contract, tort, negligence, strict
@@ -111,7 +111,7 @@ export const TermsOfService: React.FC = () => {
           8. Indemnification
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
-          You agree to indemnify and hold harmless Postiz, its affiliates,
+          You agree to indemnify and hold harmless MyPostiz, its affiliates,
           officers, directors, employees, agents, and licensors from and against
           any claims, liabilities, damages, losses, and expenses, including
           without limitation reasonable attorney&rsquo;s fees, arising out of or
@@ -127,7 +127,7 @@ export const TermsOfService: React.FC = () => {
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
           These Terms of Service shall be governed by and construed in
-          accordance with the laws of the jurisdiction where Postiz is
+          accordance with the laws of the jurisdiction where MyPostiz is
           headquartered without giving effect to any principles of conflicts of
           law. You agree to submit to the exclusive jurisdiction of the courts
           in that jurisdiction for any disputes arising out of or in connection
@@ -141,7 +141,7 @@ export const TermsOfService: React.FC = () => {
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
           These Terms of Service constitute the entire agreement between you and
-          Postiz regarding your use of the Site, the course content, and your
+          MyPostiz regarding your use of the Site, the course content, and your
           subscription to the newsletter and supersede all prior and
           contemporaneous agreements and understandings, whether oral or
           written, relating to the same subject matter.
@@ -164,7 +164,7 @@ export const TermsOfService: React.FC = () => {
           12. Waiver
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
-          The failure of Postiz to enforce any right or provision of these Terms
+          The failure of MyPostiz to enforce any right or provision of these Terms
           of Service shall not constitute a waiver of that right or provision.
         </p>
       </section>
@@ -186,7 +186,7 @@ export const TermsOfService: React.FC = () => {
         <p className="mt-2 text-sm leading-relaxed text-newTextColor">
           Our primary purpose for using information is to publish your content
           on social networks you&rsquo;ve authenticated with. We may allow you
-          to link your account on Postiz with an account on a third-party social
+          to link your account on MyPostiz with an account on a third-party social
           network platform, such as YouTube, and to transfer your information to
           and from the applicable third-party platform. Once you connect your
           content to a social media platform, its use will be governed by its
